@@ -1,5 +1,5 @@
 {
-  "name": "express-1904-chat",
+  "name": "express-chat",
   "version": "1.0.0",
   "description": "使用 express + mongoose + socket.io + ejs 实现前后端不分离的小项目",
   "main": "index.js",
